@@ -6,3 +6,5 @@ The purpose of this demo is to provide a landing place for the CMS Blue Button A
 
 
 
+Click on [This link](./content/codes/index.html) to see a list of codes from
+the CMS Fee For Service Codebook (Version k)
