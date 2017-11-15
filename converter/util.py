@@ -17,11 +17,16 @@ INDEX_TEMPLATE_START = """
 <html>\n
 <body>\n
 <h2>CMS CodeBook Demo - The Fee-For-Service Codes</h2>\n
+
+<p><a href="https://hhsidealab.github.io/cms_codebook_demo/">Back to the Github Repository</a></p>
+
 <p>\n
 """
 
 INDEX_TEMPLATE_END = """
 </p>\n
+<p><a href="https://hhsidealab.github.io/cms_codebook_demo/">Back to the Github Repository</a></p>
+
 </body>\n
 </html>\n
 """
