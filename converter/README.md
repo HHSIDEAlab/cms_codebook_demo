@@ -28,3 +28,6 @@ The hack should cycle through each page file and perform this process.
 The resulting files should be uploaded to github to a codebook repository.
 
 This should be available as browseable files via github pages.
+
+Click on [This link](./content/codes/index.html) to see a list of codes from
+the CMS Fee For Service Codebook (Version k)
